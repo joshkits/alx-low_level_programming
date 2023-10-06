@@ -1,9 +1,9 @@
-#include <stdio>
+#include <stdio.h>
 /**
- * main - Aprogram that print a line
+ * main - A program that print a line
  * Return : (0)
  */
-init main(void)
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
